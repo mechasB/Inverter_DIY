@@ -1,0 +1,9 @@
+# Ignoruj wszystko w folderze Symulation
+Symulation/**
+
+# Wyłącz ignorowanie plików .asc w Symulation
+!Symulation/**/*.asc
+
+# Nie ignoruj .gitignore w Symulation
+!Symulation/.gitignore
+
